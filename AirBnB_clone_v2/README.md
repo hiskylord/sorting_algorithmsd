@@ -1,10 +1,2 @@
-<center> <h1>HBNB - The Console</h1> </center>
-
-Airbnb clone
-
----
-
-<center><h3>Repository Contents by Project Task</h3> </center>
-
-file storage |
-<br>
+# AirBnB_clone_v2
+AirBnB_clone_v2 ALX
